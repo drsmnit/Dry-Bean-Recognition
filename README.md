@@ -1,5 +1,4 @@
 <p style="text-align: center;"><strong><span style="font-size: 22px;">Dry Bean Dataset</span></strong></p>
-<p><span style="font-size: 16px;"><strong>Group ML031</strong></span></p>
 <p><br></p>
 <p><strong><u>Data Set information</u></strong></p>
 <ol>
